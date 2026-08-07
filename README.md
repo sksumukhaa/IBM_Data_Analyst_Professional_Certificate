@@ -1,10 +1,11 @@
 IBM-Data-Analyst-Professional-Certificate
+
 📣 About this Professional Certificate
-Gain the job-ready skills for an entry-level data analyst role through this Professional Certificate from IBM and position yourself competitively in the thriving job market for data analysts, which will see a 20% growth until 2028 (U.S. Bureau of Labor Statistics).
+Gained job-ready skills for an entry-level data analyst role through this Professional Certificate from IBM and positioned myself competitively in the thriving job market for data analysts, which will see a 20% growth until 2028 (U.S. Bureau of Labor Statistics).
 
-Power your data analyst career by learning the core principles of data analysis and gaining hands-on skills practice. You’ll work with a variety of data sources, project scenarios, and data analysis tools, including Excel, SQL, Python, Jupyter Notebooks, and Cognos Analytics, gaining practical experience with data manipulation and applying analytical techniques.
+This course helps to power your data analyst career by learning the core principles of data analysis and gaining hands-on skills practice. Oneself will work with a variety of data sources, project scenarios, and data analysis tools, including Excel, SQL, Python, Jupyter Notebooks, and Cognos Analytics, gaining practical experience with data manipulation and applying analytical techniques.
 
-What you will learn
+What did I learn?
 Demonstrate proficiency in using spreadsheets and utilizing Excel to perform a variety of data analysis tasks like data wrangling and data mining
 Create various charts and plots in Excel & work with IBM Cognos Analytics to build dashboards. Visualize data using Python libraries like Matplotlib
 Develop working knowledge of Python language for analyzing data using Python libraries like Pandas and Numpy, and invoke APIs and Web Services
