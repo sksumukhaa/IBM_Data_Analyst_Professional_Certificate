@@ -1,32 +1,20 @@
-# Chicago Data Analysis using SQL
+# Databases and SQL for Data Science with Python <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
-## Project Overview
+## Assignment Scenario
 
-This project focuses on analyzing real-world datasets from the **Chicago Data Portal** using **SQL** and **Python**. The objective is to extract meaningful insights from socioeconomic, crime, and public school data to better understand the factors influencing education and community well-being in different neighborhoods of Chicago.
+As part of this hands-on assignment, you will work with a real-world dataset provided by the Chicago Data Portal. Imagine you have been hired by a non-profit organization that aims to improve educational outcomes for children and youth in the City of Chicago. Your task is to analyze census, crime, and school data for a given neighborhood or district. You will identify the factors that impact school enrollment, safety, health, and environmental ratings.
 
-## Datasets Used
+This assignment involves three datasets from the Chicago Data Portal:
 
-The analysis is based on three publicly available datasets:
+- **Chicago Socioeconomic Indicators:**  
+  This dataset contains a selection of six socioeconomic indicators of public health significance and a hardship index for each Chicago community area from 2008–2012.
 
-- **Chicago Socioeconomic Indicators**  
-  Includes key socioeconomic and public health indicators, along with the hardship index, for Chicago community areas (2008–2012).
+- **Chicago Public Schools:**  
+  This dataset contains school-level performance data used to generate the CPS School Report Cards for the 2011–2012 academic year.
 
-- **Chicago Public Schools**  
-  Contains school performance metrics and report card data for the 2011–2012 academic year.
+- **Chicago Crime Data:**  
+  This dataset includes reported crime incidents (excluding murders where victim-specific data exists) that occurred in the City of Chicago from 2001 to the present, excluding the most recent seven days.
 
-- **Chicago Crime Data**  
-  Includes reported crime incidents across the City of Chicago from 2001 onwards (excluding the most recent seven days).
+### Final Assignment
 
-## Objectives
-
-- Import and manage multiple datasets in a relational database.
-- Perform data exploration using SQL.
-- Write complex SQL queries to analyze relationships between crime, socioeconomic conditions, and school performance.
-- Generate actionable insights to support data-driven decision-making for educational improvement initiatives.
-
-## Technologies Used
-
-- SQL
-- Python
-- Jupyter Notebook
-- IBM Db2 (or any compatible SQL database)
+In this assignment, you will download the provided datasets, load them into a database, and write and execute SQL queries to solve the given problems. A Python-based Jupyter Notebook is provided to assist in completing the assignment.
