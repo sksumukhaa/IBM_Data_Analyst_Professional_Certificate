@@ -6,6 +6,7 @@ The dataset contains house sale prices for King County, which includes Seattle. 
 
 House Sales in King Count USA Final Assignment
 Modules
+
 Module 1- Importing Datasets:
 Import data(csv file) using pandas
 Understanding the data
